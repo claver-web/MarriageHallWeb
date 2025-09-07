@@ -8,7 +8,7 @@ const Hero = () => {
       className="relative h-screen bg-cover bg-center"
       style={{
         backgroundImage:
-          "url(/others/hall3.jpeg)", // Replace with your hall photo
+          "url(/others/hall3.webp)", // Replace with your hall photo
       }}
 
     >

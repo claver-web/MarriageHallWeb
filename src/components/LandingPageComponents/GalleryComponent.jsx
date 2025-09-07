@@ -1,12 +1,12 @@
 import React from "react";
 
 const images = [
-  { id: 1, src: "halls/hall1.jpg", alt: "Grand Ballroom Decor" },
-  { id: 2, src: "/halls/hall2.jpg", alt: "Wedding Stage" },
-  { id: 3, src: "/halls/hall3.jpg", alt: "Royal Dining Area" },
-  { id: 4, src: "/halls/hall4.jpg", alt: "Outdoor Pearl Lawn" },
-  { id: 5, src: "/hero/hall1.jpeg", alt: "Evening Lighting" },
-  { id: 6, src: "/hero/hall4.jpeg", alt: "Couple Entry Setup" },
+  { id: 1, src: "halls/hall1.webp", alt: "Grand Ballroom Decor" },
+  { id: 2, src: "/halls/hall2.webp", alt: "Wedding Stage" },
+  { id: 3, src: "/halls/hall3.webp", alt: "Royal Dining Area" },
+  { id: 4, src: "/halls/hall4.webp", alt: "Outdoor Pearl Lawn" },
+  { id: 5, src: "/hero/hall1.webp", alt: "Evening Lighting" },
+  { id: 6, src: "/hero/hall4.webp", alt: "Couple Entry Setup" },
 ];
 
 export default function Gallery() {
