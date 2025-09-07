@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center space-x-10">
-            <NavLink to='/'><img src="/logo/logo3.jpeg" className='w-16 rounded-full' alt="logo" /></NavLink>
+            <NavLink to='/'><img src="/logo/logo3.webp" className='w-16 rounded-full' alt="logo" /></NavLink>
             <div className="hidden md:flex space-x-18">
               <NavLink to='/' className="hover:text-pink-200">Home</NavLink>
 

@@ -4,19 +4,19 @@ import { Link } from "react-router-dom";
 const halls = [
   {
     name: "Grand Ballroom",
-    image: "/others/hall1.jpeg", // replace with real images
+    image: "/others/hall1.webp", // replace with real images
     capacity: "500 Guests",
     feature: "Crystal chandeliers & luxury decor",
   },
   {
     name: "Rosewood Hall",
-    image: "/others/hall2.jpeg",
+    image: "/others/hall2.webp",
     capacity: "300 Guests",
     feature: "Romantic interiors with floral themes",
   },
   {
     name: "Garden Pavilion",
-    image: "/others/hall4.jpeg",
+    image: "/others/hall4.webp",
     capacity: "200 Guests",
     feature: "Open-air setting with greenery",
   },

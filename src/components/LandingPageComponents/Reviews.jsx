@@ -8,7 +8,7 @@ const reviews = [
     role: "Wedding Couple",
     text: "The team made our wedding unforgettable! The décor, food, and hospitality were beyond expectations. All our guests were amazed.",
     rating: 5,
-    avatar: "/avatars/couple1.jpg",
+    avatar: "/avatars/couple1.webp",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const reviews = [
     role: "Event Guest",
     text: "Spacious hall with excellent service and beautiful ambiance. Parking and facilities were well managed. Highly recommend!",
     rating: 4,
-    avatar: "/avatars/guest1.jpg",
+    avatar: "/avatars/guest1.webp",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const reviews = [
     role: "Reception Couple",
     text: "From start to finish, everything was handled professionally. The staff truly cared about making our big day special.",
     rating: 5,
-    avatar: "/avatars/couple2.jpg",
+    avatar: "/avatars/couple2.webp",
   },
 ];
 

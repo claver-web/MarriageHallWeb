@@ -66,7 +66,7 @@ export default function AboutUs() {
           {/* Team Member */}
           <div className="text-center">
             <img
-              src="/team1.jpg"
+              src="/team1.webp"
               alt="Team Member"
               className="mx-auto h-40 w-40 rounded-full object-cover shadow-md"
             />

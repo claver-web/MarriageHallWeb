@@ -12,9 +12,9 @@ const halls = [{
   description:
     "The Grand Ballroom offers timeless elegance with crystal chandeliers, luxury interiors, and ample space for both intimate and large celebrations.",
   images: [
-    "/halls/hall1.jpg",
-    "/others/hall7.jpeg",
-    "/halls/hall2.jpg",
+    "/halls/hall1.webp",
+    "/others/hall7.webp",
+    "/halls/hall2.webp",
   ],
   amenities: [
     { icon: <FaWifi />, label: "Free Wi-Fi" },
@@ -22,7 +22,7 @@ const halls = [{
     { icon: <FaParking />, label: "Ample Parking" },
     { icon: <FaBuilding />, label: "Bridal Suite" },
   ],
-  floorPlan: ["/halls/hall1.jpg", '/halls/hall2.jpg', '/halls/hall3.jpg', '/halls/hall4.jpg'], // image of floor plan
+  floorPlan: ["/halls/hall1.webp", '/halls/hall2.webp', '/halls/hall3.webp', '/halls/hall4.webp'], // image of floor plan
 },
 {
   name: "Rosewood Hall",
@@ -30,9 +30,9 @@ const halls = [{
   description:
     "The Rosewood Hall offers timeless elegance with crystal chandeliers, luxury interiors, and ample space for both intimate and large celebrations.",
   images: [
-    "/halls/hall3.jpg",
+    "/halls/hall3.webp",
     "/others/hall2.jpeg",
-    "/halls/hall2.jpg",
+    "/halls/hall2.webp",
   ],
   amenities: [
     { icon: <FaWifi />, label: "Free Wi-Fi" },
@@ -40,7 +40,7 @@ const halls = [{
     { icon: <FaParking />, label: "Ample Parking" },
     { icon: <FaBuilding />, label: "Bridal Suite" },
   ],
-  floorPlan: ["/halls/hall1.jpg", '/halls/hall2.jpg', '/halls/hall3.jpg', '/halls/hall4.jpg'], // image of floor plan
+  floorPlan: ["/halls/hall1.webp", '/halls/hall2.webp', '/halls/hall3.webp', '/halls/hall4.webp'], // image of floor plan
 },
 {
   name: "Garden Pavilion",
@@ -48,9 +48,9 @@ const halls = [{
   description:
     "The Garden Pavilion offers timeless elegance with crystal chandeliers, luxury interiors, and ample space for both intimate and large celebrations.",
   images: [
-    "/halls/hall3.jpg",
+    "/halls/hall3.webp",
     "/others/hall4.jpeg",
-    "/halls/hall2.jpg",
+    "/halls/hall2.webp",
   ],
   amenities: [
     { icon: <FaWifi />, label: "Free Wi-Fi" },
@@ -58,7 +58,7 @@ const halls = [{
     { icon: <FaParking />, label: "Ample Parking" },
     { icon: <FaBuilding />, label: "Bridal Suite" },
   ],
-  floorPlan: ["/halls/hall1.jpg", '/halls/hall2.jpg', '/halls/hall3.jpg', '/halls/hall4.jpg'], // image of floor plan
+  floorPlan: ["/halls/hall1.webp", '/halls/hall2.webp', '/halls/hall3.webp', '/halls/hall4.webp'], // image of floor plan
 }];
 
 export default function HallDetails() {
